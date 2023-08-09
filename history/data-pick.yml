@@ -1,7 +1,7 @@
 url: http://54.209.76.249:8123/ens_indexer_healthy
-status: up
-code: 200
-responseTime: 65
-lastUpdated: 2023-08-09T14:44:54.291Z
+status: down
+code: 500
+responseTime: 89
+lastUpdated: 2023-08-09T14:59:15.282Z
 startTime: Wed Aug 09 2023 13:08:59 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
