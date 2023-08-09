@@ -1,8 +1,8 @@
 [
   {
     "name": "data-pick",
-    "url": "http://ec2-54-209-76-249.compute-1.amazonaws.com",
-    "icon": "https://icons.duckduckgo.com/ip3/ec2-54-209-76-249.compute-1.amazonaws.com.ico",
+    "url": "http://54.209.76.249:8123/ens_indexer_healthy",
+    "icon": "https://icons.duckduckgo.com/ip3/54.209.76.249.ico",
     "slug": "data-pick",
     "status": "up",
     "uptime": "100.00%",
@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 84,
-    "timeDay": 84,
-    "timeWeek": 84,
-    "timeMonth": 84,
-    "timeYear": 84,
+    "time": 81,
+    "timeDay": 81,
+    "timeWeek": 81,
+    "timeMonth": 81,
+    "timeYear": 81,
     "dailyMinutesDown": {}
   }
 ]
