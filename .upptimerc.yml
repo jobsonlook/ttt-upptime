@@ -4,7 +4,7 @@ repo: ttt-upptime # The name of this repository
 
 sites:
   - name: data-pick
-    url: http://ec2-54-209-76-249.compute-1.amazonaws.com
+    url: http://54.209.76.249:8123/ens_indexer_healthy 
 
 status-website:
   # # Add your custom domain name, or remove the `cname` line if you don't have a domain
