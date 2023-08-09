@@ -1,22 +1,22 @@
 [
   {
     "name": "data-pick",
-    "url": "http://ec2-54-209-76-249.compute-1.amazonaws.com:8123",
+    "url": "http://ec2-54-209-76-249.compute-1.amazonaws.com",
     "icon": "https://icons.duckduckgo.com/ip3/ec2-54-209-76-249.compute-1.amazonaws.com.ico",
     "slug": "data-pick",
-    "status": "down",
-    "uptime": "81.49%",
-    "uptimeDay": "81.49%",
-    "uptimeWeek": "81.49%",
-    "uptimeMonth": "81.49%",
-    "uptimeYear": "81.49%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "status": "up",
+    "uptime": "7.74%",
+    "uptimeDay": "7.74%",
+    "uptimeWeek": "7.74%",
+    "uptimeMonth": "7.74%",
+    "uptimeYear": "7.74%",
+    "time": 90,
+    "timeDay": 90,
+    "timeWeek": 90,
+    "timeMonth": 90,
+    "timeYear": 90,
     "dailyMinutesDown": {
-      "2023-08-09": 0
+      "2023-08-09": 7
     }
   }
 ]
