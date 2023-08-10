@@ -1,22 +1,22 @@
 [
   {
     "name": "data-pick",
-    "url": "http://54.209.76.249:8123/ens_indexer_healthy",
-    "icon": "https://icons.duckduckgo.com/ip3/54.209.76.249.ico",
+    "url": "http://ec2-54-163-161-77.compute-1.amazonaws.com:8123/ens_indexer_healthy",
+    "icon": "https://icons.duckduckgo.com/ip3/ec2-54-163-161-77.compute-1.amazonaws.com.ico",
     "slug": "data-pick",
-    "status": "down",
-    "uptime": "97.18%",
-    "uptimeDay": "97.18%",
-    "uptimeWeek": "97.18%",
-    "uptimeMonth": "97.18%",
-    "uptimeYear": "97.18%",
-    "time": 94,
-    "timeDay": 94,
-    "timeWeek": 94,
-    "timeMonth": 94,
-    "timeYear": 94,
+    "status": "up",
+    "uptime": "89.13%",
+    "uptimeDay": "89.13%",
+    "uptimeWeek": "89.13%",
+    "uptimeMonth": "89.13%",
+    "uptimeYear": "89.13%",
+    "time": 100,
+    "timeDay": 100,
+    "timeWeek": 100,
+    "timeMonth": 100,
+    "timeYear": 100,
     "dailyMinutesDown": {
-      "2023-08-10": 0,
+      "2023-08-10": 71,
       "2023-08-09": 22
     }
   }
