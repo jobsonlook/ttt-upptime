@@ -1,22 +1,22 @@
 [
   {
     "name": "data-ens-indexer",
-    "url": "http://ec2-54-163-161-77.compute-1.amazonaws.com:8123/ens_indexer_healthy",
-    "icon": "https://icons.duckduckgo.com/ip3/ec2-54-163-161-77.compute-1.amazonaws.com.ico",
+    "url": "$ENS_INDEXER_URL",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "data-ens-indexer",
     "status": "down",
-    "uptime": "97.77%",
-    "uptimeDay": "97.61%",
-    "uptimeWeek": "97.77%",
-    "uptimeMonth": "97.77%",
-    "uptimeYear": "97.77%",
-    "time": 129,
-    "timeDay": 110,
-    "timeWeek": 129,
-    "timeMonth": 129,
-    "timeYear": 129,
+    "uptime": "95.39%",
+    "uptimeDay": "97.34%",
+    "uptimeWeek": "95.39%",
+    "uptimeMonth": "95.39%",
+    "uptimeYear": "95.39%",
+    "time": 210,
+    "timeDay": 304,
+    "timeWeek": 210,
+    "timeMonth": 210,
+    "timeYear": 210,
     "dailyMinutesDown": {
-      "2023-08-11": 0,
+      "2023-08-11": 38,
       "2023-08-10": 34
     }
   }
