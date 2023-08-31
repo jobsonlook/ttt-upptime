@@ -5,6 +5,8 @@ repo: ttt-upptime # The name of this repository
 sites:
   - name: data-ens-indexer
     url: $ENS_INDEXER_URL
+  - name: data-crypto-event
+    url: $CRYPTO_EVENT_URL
 
 status-website:
   # # Add your custom domain name, or remove the `cname` line if you don't have a domain
