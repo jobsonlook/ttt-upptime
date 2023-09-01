@@ -10,11 +10,11 @@
     "uptimeWeek": "94.41%",
     "uptimeMonth": "88.26%",
     "uptimeYear": "88.26%",
-    "time": 962,
-    "timeDay": 649,
-    "timeWeek": 1173,
-    "timeMonth": 962,
-    "timeYear": 962,
+    "time": 955,
+    "timeDay": 653,
+    "timeWeek": 1146,
+    "timeMonth": 955,
+    "timeYear": 955,
     "dailyMinutesDown": {
       "2023-08-31": 515,
       "2023-08-25": 48,
@@ -36,11 +36,11 @@
     "uptimeWeek": "98.24%",
     "uptimeMonth": "98.24%",
     "uptimeYear": "98.24%",
-    "time": 84,
-    "timeDay": 99,
-    "timeWeek": 84,
-    "timeMonth": 84,
-    "timeYear": 84,
+    "time": 86,
+    "timeDay": 97,
+    "timeWeek": 86,
+    "timeMonth": 86,
+    "timeYear": 86,
     "dailyMinutesDown": {
       "2023-08-31": 34
     }
@@ -51,18 +51,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "data-twitter-tips",
     "status": "up",
-    "uptime": "0.50%",
-    "uptimeDay": "0.50%",
-    "uptimeWeek": "0.50%",
-    "uptimeMonth": "0.50%",
-    "uptimeYear": "0.50%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 43,
     "timeDay": 43,
     "timeWeek": 43,
     "timeMonth": 43,
     "timeYear": 43,
-    "dailyMinutesDown": {
-      "2023-09-01": 10
-    }
+    "dailyMinutesDown": {}
   }
 ]
