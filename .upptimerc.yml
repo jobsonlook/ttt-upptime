@@ -4,11 +4,15 @@ repo: ttt-upptime # The name of this repository
 
 sites:
   - name: data-ens-indexer
-    url: ${{ github.ENS_INDEXER_URL }}
+    url: $LAMBDA_MONIT_SERVER_URL?server=ens_indexer
   - name: data-crypto-event
-    url: ${{ CRYPTO_EVENT_URL }}
+    url: $LAMBDA_MONIT_SERVER_URL?server=crypto_event
   - name: data-twitter-tips
-    url: ${{ vars.TWITTER_TIPS_URL }}
+    url: $LAMBDA_MONIT_SERVER_URL?server=twitter_tips
+  - name: msk-connector
+    url: $LAMBDA_MONIT_SERVER_URL?server=msk_connector
+  - name: glue
+    url: $LAMBDA_MONIT_SERVER_URL?server=glue
 
 status-website:
   # # Add your custom domain name, or remove the `cname` line if you don't have a domain
