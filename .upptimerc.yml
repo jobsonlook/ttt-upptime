@@ -4,7 +4,7 @@ repo: ttt-upptime # The name of this repository
 
 sites:
   - name: data-ens-indexer
-    url: $ENS_INDEXER_URL
+    url: ${{ github.ENS_INDEXER_URL }}
   - name: data-crypto-event
     url: ${{ CRYPTO_EVENT_URL }}
   - name: data-twitter-tips
