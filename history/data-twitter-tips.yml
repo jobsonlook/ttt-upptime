@@ -1,7 +1,7 @@
-url: ${{ vars.TWITTER_TIPS_URL }}
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2023-09-07T03:57:54.368Z
+url: $LAMBDA_MONIT_SERVER_URL?server=twitter_tips
+status: up
+code: 200
+responseTime: 52
+lastUpdated: 2023-09-07T10:02:59.265Z
 startTime: 2023-09-01T10:17:28.926Z
 generator: Upptime <https://github.com/upptime/upptime>
