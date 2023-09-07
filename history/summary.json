@@ -16,7 +16,7 @@
     "timeMonth": 918,
     "timeYear": 918,
     "dailyMinutesDown": {
-      "2023-09-07": 9,
+      "2023-09-07": 10,
       "2023-08-31": 515,
       "2023-08-25": 48,
       "2023-08-19": 460,
@@ -33,7 +33,7 @@
     "slug": "data-crypto-event",
     "status": "down",
     "uptime": "99.57%",
-    "uptimeDay": "99.35%",
+    "uptimeDay": "99.34%",
     "uptimeWeek": "99.91%",
     "uptimeMonth": "99.57%",
     "uptimeYear": "99.57%",
@@ -43,7 +43,7 @@
     "timeMonth": 77,
     "timeYear": 77,
     "dailyMinutesDown": {
-      "2023-09-07": 9,
+      "2023-09-07": 10,
       "2023-08-31": 34
     }
   },
@@ -53,18 +53,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "data-twitter-tips",
     "status": "up",
-    "uptime": "99.89%",
-    "uptimeDay": "99.35%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.89%",
-    "uptimeYear": "99.89%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 149,
     "timeDay": 422,
     "timeWeek": 149,
     "timeMonth": 149,
     "timeYear": 149,
-    "dailyMinutesDown": {
-      "2023-09-07": 9
-    }
+    "dailyMinutesDown": {}
   }
 ]
