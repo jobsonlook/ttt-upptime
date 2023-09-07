@@ -8,7 +8,7 @@ sites:
   - name: data-crypto-event
     url: ${{ env.CRYPTO_EVENT_URL}}
   - name: data-twitter-tips
-    url: ${{ env.TWITTER_TIPS_URL }}
+    url: ${{ TWITTER_TIPS_URL }}
 
 status-website:
   # # Add your custom domain name, or remove the `cname` line if you don't have a domain
