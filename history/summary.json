@@ -1,21 +1,22 @@
 [
   {
     "name": "data-ens-indexer",
-    "url": "$ENS_INDEXER_URL",
+    "url": "${{ variables.ENS_INDEXER_URL }}",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "data-ens-indexer",
-    "status": "up",
-    "uptime": "90.62%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "94.90%",
-    "uptimeMonth": "90.62%",
-    "uptimeYear": "90.62%",
+    "status": "down",
+    "uptime": "90.65%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "95.25%",
+    "uptimeMonth": "90.65%",
+    "uptimeYear": "90.65%",
     "time": 918,
     "timeDay": 124,
-    "timeWeek": 561,
+    "timeWeek": 656,
     "timeMonth": 918,
     "timeYear": 918,
     "dailyMinutesDown": {
+      "2023-09-07": 0,
       "2023-08-31": 515,
       "2023-08-25": 48,
       "2023-08-19": 460,
@@ -27,30 +28,31 @@
   },
   {
     "name": "data-crypto-event",
-    "url": "$CRYPTO_EVENT_URL",
+    "url": "${{ variables.CRYPTO_EVENT_URL}}",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "data-crypto-event",
-    "status": "up",
+    "status": "down",
     "uptime": "99.66%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.66%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.66%",
     "uptimeYear": "99.66%",
     "time": 77,
     "timeDay": 31,
-    "timeWeek": 77,
+    "timeWeek": 79,
     "timeMonth": 77,
     "timeYear": 77,
     "dailyMinutesDown": {
+      "2023-09-07": 0,
       "2023-08-31": 34
     }
   },
   {
     "name": "data-twitter-tips",
-    "url": "$TWITTER_TIPS_URL",
+    "url": "${{ variables.TWITTER_TIPS_URL }}",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "data-twitter-tips",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -61,6 +63,8 @@
     "timeWeek": 57,
     "timeMonth": 57,
     "timeYear": 57,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-09-07": 0
+    }
   }
 ]
