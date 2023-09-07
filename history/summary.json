@@ -1,12 +1,12 @@
 [
   {
     "name": "data-ens-indexer",
-    "url": "$ENS_INDEXER_URL",
+    "url": "${{ github.ENS_INDEXER_URL }}",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "data-ens-indexer",
-    "status": "up",
+    "status": "down",
     "uptime": "90.61%",
-    "uptimeDay": "98.62%",
+    "uptimeDay": "98.60%",
     "uptimeWeek": "95.05%",
     "uptimeMonth": "90.61%",
     "uptimeYear": "90.61%",
@@ -32,18 +32,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "data-crypto-event",
     "status": "down",
-    "uptime": "99.47%",
-    "uptimeDay": "98.60%",
-    "uptimeWeek": "99.80%",
-    "uptimeMonth": "99.47%",
-    "uptimeYear": "99.47%",
+    "uptime": "99.45%",
+    "uptimeDay": "98.48%",
+    "uptimeWeek": "99.78%",
+    "uptimeMonth": "99.45%",
+    "uptimeYear": "99.45%",
     "time": 75,
     "timeDay": 44,
     "timeWeek": 77,
     "timeMonth": 75,
     "timeYear": 75,
     "dailyMinutesDown": {
-      "2023-09-07": 20,
+      "2023-09-07": 22,
       "2023-08-31": 34
     }
   },
@@ -53,18 +53,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "data-twitter-tips",
     "status": "down",
-    "uptime": "99.97%",
-    "uptimeDay": "99.85%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
+    "uptime": "99.95%",
+    "uptimeDay": "99.72%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.95%",
     "time": 149,
     "timeDay": 422,
     "timeWeek": 149,
     "timeMonth": 149,
     "timeYear": 149,
     "dailyMinutesDown": {
-      "2023-09-07": 2
+      "2023-09-07": 4
     }
   }
 ]
