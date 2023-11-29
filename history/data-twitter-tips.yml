@@ -1,7 +1,7 @@
 url: $LAMBDA_MONIT_SERVER_URL?server=twitter_tips
 status: down
 code: 502
-responseTime: 99
-lastUpdated: 2023-11-28T23:11:33.091Z
+responseTime: 90
+lastUpdated: 2023-11-29T23:11:34.011Z
 startTime: 2023-09-01T10:17:28.926Z
 generator: Upptime <https://github.com/upptime/upptime>
