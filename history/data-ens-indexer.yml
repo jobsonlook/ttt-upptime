@@ -1,7 +1,7 @@
 url: $LAMBDA_MONIT_SERVER_URL?server=ens_indexer
-status: down
-code: 500
-responseTime: 198
-lastUpdated: 2024-01-15T23:18:51.086Z
+status: up
+code: 200
+responseTime: 177
+lastUpdated: 2024-01-15T23:39:02.090Z
 startTime: 2023-08-10T04:05:44.000Z
 generator: Upptime <https://github.com/upptime/upptime>
