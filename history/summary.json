@@ -6,7 +6,7 @@
     "slug": "data-ens-indexer",
     "status": "up",
     "uptime": "97.64%",
-    "uptimeDay": "0.01%",
+    "uptimeDay": "1.37%",
     "uptimeWeek": "75.24%",
     "uptimeMonth": "93.99%",
     "uptimeYear": "97.64%",
@@ -93,7 +93,7 @@
     "timeMonth": 47,
     "timeYear": 52,
     "dailyMinutesDown": {
-      "2024-03-18": 52,
+      "2024-03-18": 72,
       "2024-03-17": 1440,
       "2024-03-16": 1440,
       "2024-03-15": 1440,
