@@ -1,7 +1,7 @@
 url: $LAMBDA_MONIT_SERVER_URL?server=crypto_event
 status: up
 code: 200
-responseTime: 75
-lastUpdated: 2024-05-05T23:11:17.237Z
+responseTime: 25
+lastUpdated: 2024-05-06T23:11:56.992Z
 startTime: 2023-08-31T02:13:56.441Z
 generator: Upptime <https://github.com/upptime/upptime>
