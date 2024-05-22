@@ -1,7 +1,7 @@
 url: $LAMBDA_MONIT_SERVER_URL?server=glue
 status: down
 code: 500
-responseTime: 649
-lastUpdated: 2024-05-22T17:08:52.716Z
+responseTime: 505
+lastUpdated: 2024-05-22T23:13:55.548Z
 startTime: 2023-09-07T10:03:06.061Z
 generator: Upptime <https://github.com/upptime/upptime>
